@@ -1,0 +1,18 @@
+
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+I flick from (300,250) to (300,200)
+I wait 1.5 seconds
+take a picture
+I wait 3 seconds
+I tap on screen 150 from the left and 200 from the top
+I wait 3 seconds
+take a picture
